@@ -11,7 +11,7 @@
   "dependencies": {
     "@simplewebauthn/browser": "^11.0.0",
     "@web3auth/paymaster-sdk": "file:web3auth-paymaster-sdk-0.0.1.tgz",
-    "next": "15.0.3",
+    "next": "15.1.2",
     "permissionless": "^0.2.17",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
